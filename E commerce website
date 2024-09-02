@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vedhasri ecommerce website</title>
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
+
+    <link rel="stylesheet" href='style.css'>
+
+</head>
+<body>
+<section id="header">
+  <a href="#"><img src="image.folder/img.logo_1__1___2_-removebg-preview (1).png" claass="logo" alt=""></a>
+  <div>
+    <ul id="navbar">
+        <li><a class="active" href="home.html">Home</a></li>
+        <li><a href="shop.html">shop</a></li>
+        <li><a href="blog.html">blog</a></li>
+        <li><a href="About.html">About</a></li>
+        <li><a href="contact.html">contact</a></li>
+        <li><a href="caart.html"><i class="fa fa-shopping-bag" aria-hidden="true"></i>
+        </a></li>
+        
+    </ul>
+  </div>
+</section>
+<section id="hero">
+  <h4>Trade-in-offer</h4>
+  <h2>Super value deals</h2>
+  <h1>On all products</h1>
+  <p>save more with coupons & upto 70% off!</p>
+  <button>Shop Now</button>
+</section>
+<section id="feature" class="section-p1">
+
+  <div class="fe-box">
+    <img src="image.folder/Cropped_Image (2).png" alt="">
+    <h6>Free Shipping</h6>
+  </div>
+
+  <div class="fe-box">
+    <img src="image.folder/online order.jpg" alt="">
+    <h6>Online Order</h6>
+  </div>
+
+  <div class="fe-box">
+    <img src="image.folder/save.6.png" alt="">
+    <h6>Save Money</h6>
+   </div>
+
+  <div class="fe-box">
+    <img src="image.folder/big sale.pro.png" alt="">
+    <h6>Promotions</h6>
+  </div>
+
+  <div class="fe-box">
+    <img src="image.folder/happy sale.02.png" alt="">
+    <h6>Happy Sell</h6>
+  </div>
+
+  <div class="fe-box">
+    <img src="image.folder/support.jpg" alt="">
+    <h6>Free Shipping</h6>
+  </div>
+  
+  </section>
+
+  <section id="Products1" class="section-p1" >
+    <h2>Featured Products</h2>
+    <p>Summer Collection New Modern Designs</p>
+    <div class="pro-container">
+      <div class="pro">
+        <img src="image.folder/men1111.png" alt="">
+        <div class="des">
+          <span>adidas</span>
+          <h5>Cartoon Astrount Shirts</h2>
+            <div class="star">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+            </div>
+            <h4>$78</h4>
+            <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+        </div>
+            </div>
+            <div class="pro">
+              <img src="image.folder/men111.png" alt="">
+              <div class="des">
+                <span>adidas</span>
+                <h5>Cartoon Astrount Shirts</h2>
+                  <div class="star">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                  </div>
+                  <h4>$78</h4>
+                  <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+              </div>
+                  </div>
+                  <div class="pro">
+                    <img src="image.folder/red.shirt.jpg" alt="">
+                    <div class="des">
+                      <span>adidas</span>
+                      <h5>Cartoon Astrount Shirts</h2>
+                        <div class="star">
+                          <i class="fas fa-star"></i>
+                          <i class="fas fa-star"></i>
+                          <i class="fas fa-star"></i>
+                          <i class="fas fa-star"></i>
+                          <i class="fas fa-star"></i>
+                        </div>
+                        <h4>$78</h4>
+                        <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                    </div>
+                        </div>
+                         <div class="pro">
+                          <img src="image.folder/men22.png'.jpg" alt="">
+                          <div class="des">
+                            <span>adidas</span>
+                            <h5>Cartoon Astrount Shirts</h2>
+                              <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                              </div>
+                              <h4>$78</h4>
+                              <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                          </div>
+                              </div>
+                              <div class="pro">
+                                <img src="image.folder/pant1.png" alt="">
+                                <div class="des">
+                                  <span>adidas</span>
+                                  <h5>Cartoon Astrount Shirts</h2>
+                                    <div class="star">
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                    </div>
+                                    <h4>$78</h4>
+                                    <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                </div>
+                                    </div>
+                                    <div class="pro">
+                                      <img src="image.folder/women5.png" alt="">
+                                      <div class="des">
+                                        <span>adidas</span>
+                                        <h5>Cartoon Astrount Shirts</h2>
+                                          <div class="star">
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                            <i class="fas fa-star"></i>
+                                          </div>
+                                          <h4>$78</h4>
+                                          <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                      </div>
+                                          </div>
+                                          <div class="pro">
+                                            <img src="image.folder/women2.png" alt="">
+                                            <div class="des">
+                                              <span>adidas</span>
+                                              <h5>Cartoon Astrount Shirts</h2>
+                                                <div class="star">
+                                                  <i class="fas fa-star"></i>
+                                                  <i class="fas fa-star"></i>
+                                                  <i class="fas fa-star"></i>
+                                                  <i class="fas fa-star"></i>
+                                                  <i class="fas fa-star"></i>
+                                                </div>
+                                                <h4>$78</h4>
+                                                <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                            </div>
+                                                </div>
+                                                <div class="pro">
+                                                  <img src="image.folder/women3.png" alt="">
+                                                  <div class="des">
+                                                    <span>adidas</span>
+                                                    <h5>Cartoon Astrount Shirts</h2>
+                                                      <div class="star">
+                                                        <i class="fas fa-star"></i>
+                                                        <i class="fas fa-star"></i>
+                                                        <i class="fas fa-star"></i>
+                                                        <i class="fas fa-star"></i>
+                                                        <i class="fas fa-star"></i>
+                                                      </div>
+                                                      <h4>$78</h4>
+                                                      <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                                  </div>
+                                                      </div>
+      </section>
+      <section id="banner" class="section-m1">
+        <h4>Repair Services</h4>
+        <h2>Up to<span>70% Off</span> - All t-shirts and Accessories</h2>
+         <button class="normal">Explore More</button>
+      </section>
+      <section id="Products1" class="section-p1" >
+        <h2>New Arrivals</h2>
+        <p>Summer Collection New Modern Designs</p>
+        <div class="pro-container">
+          <div class="pro">
+            <img src="image.folder/product2.2.jpg" alt="">
+            <div class="des">
+              <span>adidas</span>
+              <h5>Cartoon Astrount Shirts</h2>
+                <div class="star">
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                </div>
+                <h4>$78</h4>
+                <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+            </div>
+                </div>
+                <div class="pro">
+                  <img src="image.folder/product2.3.jpg" alt="">
+                  <div class="des">
+                    <span>adidas</span>
+                    <h5>Cartoon Astrount Shirts</h2>
+                      <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                      </div>
+                      <h4>$78</h4>
+                      <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                  </div>
+                      </div>
+                      <div class="pro">
+                        <img src="image.folder/product2.4.jpg" alt="">
+                        <div class="des">
+                          <span>adidas</span>
+                          <h5>Cartoon Astrount Shirts</h2>
+                            <div class="star">
+                              <i class="fas fa-star"></i>
+                              <i class="fas fa-star"></i>
+                              <i class="fas fa-star"></i>
+                              <i class="fas fa-star"></i>
+                              <i class="fas fa-star"></i>
+                            </div>
+                            <h4>$78</h4>
+                            <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                        </div>
+                            </div>
+                             <div class="pro">
+                              <img src="image.folder/product2.9.jpg" alt="">
+                              <div class="des">
+                                <span>adidas</span>
+                                <h5>Cartoon Astrount Shirts</h2>
+                                  <div class="star">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                  </div>
+                                  <h4>$78</h4>
+                                  <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                              </div>
+                                  </div>
+                                  <div class="pro">
+                                    <img src="image.folder/product2.7.jpg" alt="">
+                                    <div class="des">
+                                      <span>adidas</span>
+                                      <h5>Cartoon Astrount Shirts</h2>
+                                        <div class="star">
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                          <i class="fas fa-star"></i>
+                                        </div>
+                                        <h4>$78</h4>
+                                        <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                    </div>
+                                        </div>
+                                        <div class="pro">
+                                          <img src="image.folder/product2.13.webp" alt="">
+                                          <div class="des">
+                                            <span>adidas</span>
+                                            <h5>Cartoon Astrount Shirts</h2>
+                                              <div class="star">
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                              </div>
+                                              <h4>$78</h4>
+                                              <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                          </div>
+                                              </div>
+                                              <div class="pro">
+                                                <img src="image.folder/product2.10.webp" alt="">
+                                                <div class="des">
+                                                  <span>adidas</span>
+                                                  <h5>Cartoon Astrount Shirts</h2>
+                                                    <div class="star">
+                                                      <i class="fas fa-star"></i>
+                                                      <i class="fas fa-star"></i>
+                                                      <i class="fas fa-star"></i>
+                                                      <i class="fas fa-star"></i>
+                                                      <i class="fas fa-star"></i>
+                                                    </div>
+                                                    <h4>$78</h4>
+                                                    <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                                </div>
+                                                    </div>
+                                                    <div class="pro">
+                                                      <img src="image.folder/product2.11.webp" alt="">
+                                                      <div class="des">
+                                                        <span>adidas</span>
+                                                        <h5>Cartoon Astrount Shirts</h2>
+                                                          <div class="star">
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                            <i class="fas fa-star"></i>
+                                                          </div>
+                                                          <h4>$78</h4>
+                                                          <a href="#"><i class="fal fa-shopping-cart cart" ></i></a>
+                                                      </div>
+                                                          </div>
+          </section>
+  <section id="sm-banner" class="section-p1">
+    <div class="banner-box">
+      <h4>crazy deals</h4>
+      <h2>buy 1 get 1 free</h2>
+      <span>The best classic dress is on sale at cara </span>
+      <button class="white">Learn More</button>
+     </div>
+     <div class="banner-box banner-box2">
+      <h4>Spring/Summer</h4>
+      <h2>Up comming season</h2>
+      <span>The best classic dress is on sale at cara </span>
+      <button class="white">Collection</button>
+
+    </div>
+
+  </section>        
+  <section id="banner3">
+    <div class="banner-box">
+      <h2>SEASONAL SALE</h2>
+      <h3>Winter collection-50% OFF</h3>
+     </div>
+     <div class="banner-box banner-box2">
+      <h2>SEASONAL SALE</h2>
+      <h3>Winter collection-50% OFF</h3>
+     </div>
+     <div class="banner-box banner-box3">
+      <h2>SEASONAL SALE</h2>
+      <h3>Winter collection-50% OFF</h3>
+     </div>
+   
+
+  </section>    
+
+    <script src="script.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vedhasri ecommerce website</title>
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
+
+    <link rel="stylesheet" href='style.css'>
+
+</head>
+<body>
+<section id="header">
+  <a href="#"><img src="image.folder/img.logo_1__1___2_-removebg-preview (1).png" claass="logo" alt=""></a>
+  <div>
+    <ul id="navbar">
+        <li><a class="active" href="home.html">Home</a></li>
+        <li><a href="shop.html">shop</a></li>
+        <li><a href="blog.html">blog</a></li>
+        <li><a href="About.html">About</a></li>
+        <li><a href="contact.html">contact</a></li>
+        <li><a href="caart.html"><i class="fa fa-shopping-bag" aria-hidden="true"></i>
+        </a></li>
+        
+    </ul>
+  </div>
+</section>
+<section id="hero">
+  <h4>Trade-in-offer</h4>
+  <h2>Super value deals</h2>
+  <h1>On all products</h1>
+  <p>save more with coupons & upto 70% off!</p>
+  <button>Shop Now</button>
+</section>
+<section id="feature" class="section-p1">
